@@ -4,6 +4,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 &nbsp;***About me*** 
+
 I am a Fullstack Developer student at Forward, with expertise in JavaScript and Python. I love learning new programming languages and always strive to be creative and clear in my development. I’m passionate about building innovative and productive solutions.
 * **Areas of interest:** Web Development and Android Development.
 - 🌱 I’m currently learning ...
