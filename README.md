@@ -1,15 +1,17 @@
-<!-- Introduction -->
-<h1 align="center">Hi , I'm Derek Noguera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+      <!-- Introduction -->
+      <h1 align="center">Hi , I'm Derek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+    <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+    
+    &nbsp;***About me*** 
+    
+    I am a Fullstack Developer student at Forward, with expertise in JavaScript and Python. I love learning new programming languages and always strive to be creative and clear in my development. I’m passionate about building innovative and productive solutions.
+    * **Areas of interest:** Web Development and Android Development.
+    - 🌱 I’m currently learning ...
+      - Java
+    - 👯 I’m looking forward to collaborate on open source projects.
 
-&nbsp;***About me*** 
-
-I am a Fullstack Developer student at Forward, with expertise in JavaScript and Python. I love learning new programming languages and always strive to be creative and clear in my development. I’m passionate about building innovative and productive solutions.
-* **Areas of interest:** Web Development and Android Development.
-- 🌱 I’m currently learning ...
-  - Java
-- 👯 I’m looking forward to collaborate on open source projects.
+  
 <!--- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br> -->
 - Outside of tech, 📖 I enjoy reading books, 🎵 listening to music, and 💹 doing trading. 🌴 I also like exploring nature outdoors.
 - 📫 Reach out to me at : <a href="dereknoguera9@gmail.com"> dereknoguera9@gmail.com</a>
