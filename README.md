@@ -1,3 +1,7 @@
 <!-- Introduction -->
-<h1 align="center">Hi , I'm Derek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DerekNoguera&data=followers,repositories,commits&theme=darkmode&includeNames=true)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,html,css&theme=darkmode&includeNames=true)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,django&theme=darkmode&includeNames=true)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,nodejs,nginx&theme=darkmode&includeNames=true)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=darkmode&includeNames=true)
